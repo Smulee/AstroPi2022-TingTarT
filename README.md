@@ -35,6 +35,7 @@ data, but we think we used it the best way we could.
 
 <img src="readmedia/image2.png" width="80%">
 
+<br />
 
 ## 2\. Method
 
@@ -44,8 +45,10 @@ We decided to measure how volcanic activity and nuclear explosions
 affect the vegetation amount on earth. We used a camera with an NDVI
 filter to take photos and save them in JPEG format along with data to
 find the location and time the photos were taken, we kept these types of
-data in a CSV
-file.<img src="readmedia/image3.png" width="60%">
+data in a CSV file.
+<br />
+
+<img src="readmedia/image3.png" width="60%">
 
 We wrote a script that calculates average vegetation in the photos we
 gathered from the ISS and NDVI data from NASA\'s archives. The script
@@ -61,7 +64,7 @@ areas we got photos of. With average brightness, we can calculate the
 average density of vegetation that we use for compressing.
 
 Repository with all scripts -
-[[https://github.com/Smulee/AstroPi2022-TingTarT]](https://github.com/Smulee/AstroPi2022-TingTarT)>
+[[https://github.com/Smulee/AstroPi2022-TingTarT]](https://github.com/Smulee/AstroPi2022-TingTarT)
 
 
 <br />
@@ -73,6 +76,8 @@ The process of processing images:
 <img src="readmedia/image14.png" width="30%"><img src="readmedia/image15.png" width="30%"><img src="readmedia/image8.png" width="30%">
 
 <img src="readmedia/image6.png" width="30%"><img src="readmedia/image4.png" width="30%"><img src="readmedia/image7.png" width="30%">
+
+<br />
 
 ## 3\. Experiment results
 
@@ -94,7 +99,8 @@ back in time. So we could not analyze it the way we initially wanted.
 Instead, we compared vegetation near the volcano with vegetation in an
 area of Japan with no volcanoes, this region is the coast of Tottori.
 
-<img src="readmedia/image1.png" width="80%">We found no evidence for our hypothesis.
+<img src="readmedia/image1.png" width="80%">
+We found no evidence for our hypothesis.
 The density of vegetation on the coast of Tottori is around 80% and the
 vegetation near the volcano Niigata-Yake-Yama is 79.2%, practically the
 same. We think it may be unaffected because of how long it's been since
@@ -135,7 +141,7 @@ communication problems.
 
 ## 5\. Conclusion
 
-> **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 Based on our findings, we cannot prove the first part of our initial
 hypothesis that volcanoes would help the growth vegetation. But we can
@@ -152,5 +158,5 @@ project is different from what school has made us used to, so it was a
 good experience to learn other ways of working on projects.
 
 We would love to thank ESA and the Raspberry Pi foundation for making
-AstroPI happen and that we could participate, it was a lot of fun, and
+AstroPi happen and that we could participate, it was a lot of fun, and
 some of us will definitely participate again.
