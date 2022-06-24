@@ -1,4 +1,4 @@
-![](Aspose.Words.52fca623-1ad1-4d34-845b-1654aa743da7.001.png)
+![](readme images\Aspose.Words.52fca623-1ad1-4d34-845b-1654aa743da7.001.png)
 
 Team name: TingTartT
 
