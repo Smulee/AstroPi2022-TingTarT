@@ -6,7 +6,7 @@ Organisation name: Kvadraturen Videregående skole
 
 Country: Norway
 
-1\. Introduction
+## 1\. Introduction
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -27,10 +27,10 @@ Here is our ISS flight path. Unfortunately, a big part of the earth was
 covered by clouds at the time of our investigation, so we got little
 data, but we think we used it the best way we could.
 
-![](readmedia/image2.png){width="6.178135389326334in"
-height="3.1321708223972005in"}
+<img src="readmedia/image2.png" width="80%">
 
-2\. Method
+
+## 2\. Method
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -39,7 +39,7 @@ affect the vegetation amount on earth. We used a camera with an NDVI
 filter to take photos and save them in JPEG format along with data to
 find the location and time the photos were taken, we kept these types of
 data in a CSV
-file.![](readmedia/image3.png){width="3.9189041994750657in"
+file.<img src="readmedia/image3.png" width="60%">{width="3.9189041994750657in"
 height="1.2771916010498687in"}
 
 We wrote a script that calculates average vegetation in the photos we
@@ -56,41 +56,40 @@ areas we got photos of. With average brightness, we can calculate the
 average density of vegetation that we use for compressing.
 
 Repository with all scripts -
-[[https://github.com/Smulee/AstroPi2022-TingTarT]{.ul}](https://github.com/Smulee/AstroPi2022-TingTarT)
+[[https://github.com/Smulee/AstroPi2022-TingTarT]{.ul}](https://github.com/Smulee/AstroPi2022-TingTarT)>
+
+
+<br />
 
 The process of processing images:
-![](readmedia/image14.png){width="2.0141863517060368in"
-height="1.515625546806649in"}![](readmedia/image15.png){width="2.0105227471566054in"
-height="1.515625546806649in"}![](readmedia/image8.png){width="2.0081485126859144in"
-height="1.5077799650043744in"}
 
-![](readmedia/image6.png){width="2.0138156167979004in"
-height="1.5077799650043744in"}![](readmedia/image4.png){width="2.0115737095363078in"
-height="1.5103510498687664in"}![](readmedia/image7.png){width="2.0052088801399823in"
-height="1.5055719597550306in"}
+<br />
 
-3\. Experiment results
+<img src="readmedia/image14.png" width="30%"><img src="readmedia/image15.png" width="30%"><img src="readmedia/image8.png" width="30%">
+
+<img src="readmedia/image6.png" width="30%"><img src="readmedia/image4.png" width="30%"><img src="readmedia/image7.png" width="30%">
+
+## 3\. Experiment results
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 We flew over two areas that we found useful:
 
 -   The Semipalatinsk nuclear test site in Kazakhstan which is the
-    > biggest Soviet nuclear polygon.
+    biggest Soviet nuclear polygon.
 
 -   The west part of Japan. Japan is full of volcanoes, and the part
-    > that we were lucky to get. Has active volcanoes nearby.
+    that we were lucky to get. Has active volcanoes nearby.
 
-![](readmedia/image5.png){width="2.901042213473316in"
-height="2.21875in"}The volcano that we used for analyzing the effect
+<img src="readmedia/image5.png" width="80%">
+The volcano that we used for analyzing the effect
 volcanoes have on vegetation is called Niigata-Yake-Yama. The last time
 it erupted was in 1974. NASA doesn\'t have NDVI data that goes so far
 back in time. So we could not analyze it the way we initially wanted.
 Instead, we compared vegetation near the volcano with vegetation in an
 area of Japan with no volcanoes, this region is the coast of Tottori.
 
-![](readmedia/image1.png){width="3.0520833333333335in"
-height="2.435237314085739in"}We found no evidence for our hypothesis.
+<img src="readmedia/image1.png" width="80%">We found no evidence for our hypothesis.
 The density of vegetation on the coast of Tottori is around 80% and the
 vegetation near the volcano Niigata-Yake-Yama is 79.2%, practically the
 same. We think it may be unaffected because of how long it's been since
@@ -108,7 +107,7 @@ during our pictures. We got data just from a small portion of this area.
 Although we found no evidence that radiation from nuclear explosions
 affects the amount of vegetation on earth, as expected.
 
-4\. Learnings
+## 4\. Learnings
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -129,7 +128,7 @@ together in the same room more while working on planning, coding, and
 analyzing. During this project we did not do that and that caused some
 communication problems.
 
-5\. Conclusion
+## 5\. Conclusion
 
 > **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
