@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a submition for Astro Pi: Mission Space Lab 2022 for team TingTarT with images, code and phase 3 repport
+This is a submition for Astro Pi: Mission Space Lab 2022 for team TingTarT with images, code and phase 3 report
 
 ***
 
