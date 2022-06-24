@@ -1,3 +1,9 @@
+## What is this?
+
+This is a submition for Astro Pi: Mission Space Lab 2022 for team TingTarT with images, code and phase 3 repport
+
+***
+
 Team name: TingTartT
 
 Chosen theme: Life on Earth
@@ -39,8 +45,7 @@ affect the vegetation amount on earth. We used a camera with an NDVI
 filter to take photos and save them in JPEG format along with data to
 find the location and time the photos were taken, we kept these types of
 data in a CSV
-file.<img src="readmedia/image3.png" width="60%">{width="3.9189041994750657in"
-height="1.2771916010498687in"}
+file.<img src="readmedia/image3.png" width="60%">
 
 We wrote a script that calculates average vegetation in the photos we
 gathered from the ISS and NDVI data from NASA\'s archives. The script
