@@ -27,7 +27,7 @@ Here is our ISS flight path. Unfortunately, a big part of the earth was
 covered by clouds at the time of our investigation, so we got little
 data, but we think we used it the best way we could.
 
-![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image2.png){width="6.178135389326334in"
+![](readmedia/media/image2.png){width="6.178135389326334in"
 height="3.1321708223972005in"}
 
 2\. Method
@@ -39,7 +39,7 @@ affect the vegetation amount on earth. We used a camera with an NDVI
 filter to take photos and save them in JPEG format along with data to
 find the location and time the photos were taken, we kept these types of
 data in a CSV
-file.![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image3.png){width="3.9189041994750657in"
+file.![](readmedia/media/image3.png){width="3.9189041994750657in"
 height="1.2771916010498687in"}
 
 We wrote a script that calculates average vegetation in the photos we
@@ -59,14 +59,14 @@ Repository with all scripts -
 [[https://github.com/Smulee/AstroPi2022-TingTarT]{.ul}](https://github.com/Smulee/AstroPi2022-TingTarT)
 
 The process of processing images:
-![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image14.png){width="2.0141863517060368in"
-height="1.515625546806649in"}![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image15.png){width="2.0105227471566054in"
-height="1.515625546806649in"}![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image8.png){width="2.0081485126859144in"
+![](readmedia/media/image14.png){width="2.0141863517060368in"
+height="1.515625546806649in"}![](readmedia/media/image15.png){width="2.0105227471566054in"
+height="1.515625546806649in"}![](readmedia/media/image8.png){width="2.0081485126859144in"
 height="1.5077799650043744in"}
 
-![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image6.png){width="2.0138156167979004in"
-height="1.5077799650043744in"}![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image4.png){width="2.0115737095363078in"
-height="1.5103510498687664in"}![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image7.png){width="2.0052088801399823in"
+![](readmedia/media/image6.png){width="2.0138156167979004in"
+height="1.5077799650043744in"}![](readmedia/media/image4.png){width="2.0115737095363078in"
+height="1.5103510498687664in"}![](readmedia/media/image7.png){width="2.0052088801399823in"
 height="1.5055719597550306in"}
 
 3\. Experiment results
@@ -81,7 +81,7 @@ We flew over two areas that we found useful:
 -   The west part of Japan. Japan is full of volcanoes, and the part
     > that we were lucky to get. Has active volcanoes nearby.
 
-![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image5.png){width="2.901042213473316in"
+![](readmedia/media/image5.png){width="2.901042213473316in"
 height="2.21875in"}The volcano that we used for analyzing the effect
 volcanoes have on vegetation is called Niigata-Yake-Yama. The last time
 it erupted was in 1974. NASA doesn\'t have NDVI data that goes so far
@@ -89,7 +89,7 @@ back in time. So we could not analyze it the way we initially wanted.
 Instead, we compared vegetation near the volcano with vegetation in an
 area of Japan with no volcanoes, this region is the coast of Tottori.
 
-![](vertopal_adf259fbf72245648ab1c38cc6eacc7b/media/image1.png){width="3.0520833333333335in"
+![](readmedia/media/image1.png){width="3.0520833333333335in"
 height="2.435237314085739in"}We found no evidence for our hypothesis.
 The density of vegetation on the coast of Tottori is around 80% and the
 vegetation near the volcano Niigata-Yake-Yama is 79.2%, practically the
