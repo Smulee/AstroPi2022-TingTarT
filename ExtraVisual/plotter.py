@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 27 13:43:32 2022
-
-@author: marsjo001
-"""
-
 import pandas as pd
 import plotly.express as px
 
