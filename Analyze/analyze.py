@@ -15,8 +15,9 @@ upper = np.array([179, 255, 255])
 seed = (0, 0)
 rep_value = (0, 0, 0, 0)
 
-opencv_imageISS = cv2.imread(r"C:\Users\damwid001\PycharmProjects\OpenCV\Resources\Just vegetation photos\img_1.png")
-opencv_imageMODIUS = cv2.imread(r"C:\Users\damwid001\PycharmProjects\OpenCV\Resources\Just vegetation photos\250m 16 days NDVI44.png")
+#Image Paths
+opencv_imageISS = cv2.imread(r"[Insert ISS image]")
+opencv_imageMODIUS = cv2.imread(r"[Insert Modis Image]")
 
 cv2.namedWindow("TrackBars")
 cv2.resizeWindow("TrackBars", 640,240)
